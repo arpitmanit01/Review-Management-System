@@ -6,19 +6,13 @@ A Complete Management Sysyem For handling College-Faaculty REVIEWS With these Hi
 ---> SQL Injection Prevention
 ---> Remaining Student Report Fetching etc.
 
-
-.
-.
-.
 MAIN TECH--->HTML,CSS,BOOTSTRAP,PHP,MySQL 
-.
-.
-.
-.
 
-Upcoming FEATURES -->
-        NEW Fronted On Material Design...
+...
+
+Currently Working on / Upcoming FEATURES -->
+        Complete New Fronted On Material Design + Android & IOS App + Data Analysis using Python
 
 ..
 
-//Founded some Error on Awardspace(project hosting site)...though added "screenshots" for Project Reference...will update hosting soon. 
+//Discovered Error on Awardspace(project hosting site) free service usage...though added "screenshots" for Project Reference...will update hosting soon// 
