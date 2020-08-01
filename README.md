@@ -1,5 +1,5 @@
 # Review-Management-System
-A Complete Management Sysyem For handling College-Faaculty REVIEWS With these Highlight Features  --
+A Complete Management Sysyem For handling College-Faculty REVIEWS With these Highlight Features  --
 ---> Manage Rating on 10 Parameters
 ---> Faculty Report Generation
 ---> Duplicate Student Entry Prevention
