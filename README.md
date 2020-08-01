@@ -11,7 +11,7 @@ MAIN TECH--->HTML,CSS,BOOTSTRAP,PHP,MySQL
 ...
 
 Currently Working on / Upcoming FEATURES -->
-        Complete New Fronted On Material Design❤️ + Android & IOS App 👏 + Data Analysis using Python 😇
+        Complete New Fronted Based On Material Design❤️ + Android & IOS App 👏 + Data Analysis using Python 😇
 
 ..
 
